@@ -1,0 +1,12 @@
+body {
+    background-image: url(https://images.unsplash.com/photo-1576488780127-3cc65c2cc32b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=624&q=80);
+    font-family: 'Rajdhani', sans-serif;
+}
+a {
+    color: rebeccapurple;
+}
+
+#project {
+    color: black;
+    text-decoration: none;
+}
