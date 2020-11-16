@@ -2,4 +2,3 @@ I'll be the first to admit that this isn't my strength. I have no problem design
 
 https://sethklusmire.github.io/Homework7/
 
-![ScreenShot](https://raw.github.com/sethklusmire/Homework7/master/ScreenShot7.png)
